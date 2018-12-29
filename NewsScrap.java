@@ -12,7 +12,7 @@
 package some.package;
 
 import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;                                               //AuthorScrap : NewsScrap,companies:authors,AuthorFilter:AuthorFilter,Company:Author
+import com.google.gson.GsonBuilder;                                               
 import com.google.gson.annotations.SerializedName;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Element;
